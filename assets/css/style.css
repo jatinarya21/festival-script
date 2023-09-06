@@ -377,7 +377,7 @@ h3 {
 .cssload-preloader>.cssload-preloader-box {
     position: absolute;
     height: 16px;
-    top: 36%;
+    top: 25%;
     left: 45%;
     margin: -8px 0 0 -82px;
     perspective: 110px;
